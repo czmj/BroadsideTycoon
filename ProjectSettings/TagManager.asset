@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3467852313
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Midground
+    uniqueID: 105187639
+    locked: 0
+  - name: NPC
+    uniqueID: 3034136759
+    locked: 0
+  - name: Player
+    uniqueID: 1104189717
+    locked: 0
+  - name: Foreground
+    uniqueID: 4250260891
+    locked: 0
+  - name: UI
+    uniqueID: 3695539017
+    locked: 0
