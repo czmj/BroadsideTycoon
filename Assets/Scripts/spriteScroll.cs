@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class spriteScrollController : MonoBehaviour
+public class spriteScroll : MonoBehaviour
 {
     public float speed = 1.0f;
     public float whenStatic = 0.0f;

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - NPC
   - Tree
+  - Building
   layers:
   - Default
   - TransparentFX
@@ -43,20 +44,23 @@ TagManager:
   - name: Background
     uniqueID: 3467852313
     locked: 0
+  - name: Midground
+    uniqueID: 105187639
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Midground
-    uniqueID: 105187639
+  - name: Buildings
+    uniqueID: 801547525
+    locked: 0
+  - name: Foreground
+    uniqueID: 4250260891
     locked: 0
   - name: NPC
     uniqueID: 3034136759
     locked: 0
   - name: Player
     uniqueID: 1104189717
-    locked: 0
-  - name: Foreground
-    uniqueID: 4250260891
     locked: 0
   - name: UI
     uniqueID: 3695539017

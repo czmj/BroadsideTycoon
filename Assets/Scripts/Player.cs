@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerController : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public float walkSpeed = 1.0f;
     private Vector2 velocity = new Vector2(0.0f, 0.0f);

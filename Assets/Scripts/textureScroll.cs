@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class textureScrollController : MonoBehaviour {
+public class textureScroll : MonoBehaviour {
 
     public float speed = 0.5f;
     private Vector2 offset = new Vector2(0.0f, 0.0f);
